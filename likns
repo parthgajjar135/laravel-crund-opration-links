@@ -2,17 +2,35 @@ noraml crud opration
 --------------------------------------------
 https://www.itsolutionstuff.com/post/laravel-6-crud-application-tutorialexample.html#at_pco=smlwn-1.0&at_si=5e2574c458a99eda&at_ab=per-2&at_pos=0&at_tot=1
 
+join-qurey
+------------------
+https://www.itsolutionstuff.com/post/laravel-5-join-with-subquery-in-query-builder-exampleexample.html
 
+https://www.itsolutionstuff.com/post/example-of-unionall-in-query-builder-laravel-5example.html
+
+user-log-activity
+-----------------------------------------------------------------------------------------------
+https://www.itsolutionstuff.com/post/custom-user-log-activity-in-laravel-5-app-exampleexample.html
 
 with file upload
 ---------------------------------------------------------------------------------------------------
 https://www.webslesson.info/2019/03/step-by-step-crud-operation-in-laravel-58-with-file-upload.html
+
+https://www.itsolutionstuff.com/post/laravel-6-dropzone-image-upload-tutorialexample.html
+
+https://www.itsolutionstuff.com/post/how-to-select-concat-columns-with-laravel-query-builderexample.html
 
 
 crud with ajex
 ---------------------------------------------------------------------------------------------------
 https://www.webslesson.info/2019/10/laravel-6-crud-application-using-yajra-datatables-and-ajax.html
 
+
+
+
+Laravel 6 Paginate with Collection or Array
+--------------------------------------------------------------------------------------------------------
+https://www.itsolutionstuff.com/post/laravel-6-paginate-with-collection-or-arrayexample.html
 
 
 Dynamically Add / Remove input fields in PHP with Jquery Ajax
@@ -24,12 +42,27 @@ https://www.webslesson.info/2017/07/live-add-edit-delete-datatables-records-usin
 https://www.webslesson.info/2018/03/ajax-crud-on-dynamically-add-remove-input-fields-in-php.html
 
 
+charts
+-----------
+https://www.itsolutionstuff.com/post/laravel-6-highcharts-tutorialexample.html
 
+  
+ Laravel 6 Multiple Database Connection Tutorial
+ -------------------------------------------------------------
+  https://www.itsolutionstuff.com/post/laravel-6-multiple-database-connection-tutorialexample.html
 
 chat
 ----------
 https://www.webslesson.info/2018/07/live-chat-system-in-php-using-ajax-jquery.html
 
+
+googel captuercode
+-------------------------
+https://www.itsolutionstuff.com/post/laravel-6-google-recaptcha-form-validation-exampleexample.html
+
+
+https://www.itsolutionstuff.com/post/laravel-6-socialite-login-with-google-gmail-accountexample.html
+https://www.itsolutionstuff.com/post/laravel-6-email-verification-tutorialexample.html
 
 
 live api rest fully
